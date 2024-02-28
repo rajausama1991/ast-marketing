@@ -1,0 +1,2 @@
+[08-Dec-2023 07:05:34 UTC] PHP Fatal error:  require_once(): Failed opening required './vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/allstartechnolog/marketing/application/core/MY_Controller.php on line 20
+[08-Dec-2023 13:31:17 UTC] PHP Fatal error:  Allowed memory size of 402653184 bytes exhausted (tried to allocate 262144 bytes) in /home/allstartechnolog/marketing/application/controllers/LeadsController.php on line 137
